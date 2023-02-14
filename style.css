@@ -1,0 +1,13 @@
+* {
+  background-color: rgb(151, 142, 142);
+  margin: 1em;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
+
+#element {
+  font-size: 32px;
+}
